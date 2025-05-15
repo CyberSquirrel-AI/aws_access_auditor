@@ -71,4 +71,4 @@ MIT License
 
 ---
 
-Built with ❤️ by cloud security engineers and pentesters.
+Built with ❤️ by CyberSquirrel.
