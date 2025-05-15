@@ -18,14 +18,6 @@ This tool does exactly that.
 
 ## 🚀 Installation
 
-```bash
-git clone https://github.com/yourname/aws-access-auditor.git
-cd aws-access-auditor
-pip install boto3
-```
-
-## 🛠️ Usage
-
 ```# Clone the repository
 git clone https://github.com/yourname/aws-access-auditor.git
 
@@ -45,6 +37,10 @@ venv\Scripts\activate
 # Install the required package
 pip install boto3
 ```
+
+## 🛠️ Usage
+
+
 
 You’ll see output like:
 
