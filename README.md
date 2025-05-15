@@ -41,6 +41,12 @@ pip install boto3
 ## 🛠️ Usage
 
 
+```bash
+python aws_access_auditor.py \
+  --access-key YOUR_ACCESS_KEY \
+  --secret-key YOUR_SECRET_KEY \
+  --log-file optional_output.log
+```
 
 You’ll see output like:
 
