@@ -26,11 +26,24 @@ pip install boto3
 
 ## 🛠️ Usage
 
-```bash
-python aws_access_auditor.py \
-  --access-key YOUR_ACCESS_KEY \
-  --secret-key YOUR_SECRET_KEY \
-  --log-file optional_output.log
+```# Clone the repository
+git clone https://github.com/yourname/aws-access-auditor.git
+
+# Navigate into the project directory
+cd aws-access-auditor
+
+# Create a virtual environment named 'venv'
+python3 -m venv venv
+
+# Activate the virtual environment
+# On macOS/Linux:
+source venv/bin/activate
+
+# On Windows:
+venv\Scripts\activate
+
+# Install the required package
+pip install boto3
 ```
 
 You’ll see output like:
