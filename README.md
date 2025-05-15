@@ -19,7 +19,7 @@ This tool does exactly that.
 ## 🚀 Installation
 
 ```# Clone the repository
-git clone https://github.com/yourname/aws-access-auditor.git
+git clone git@github.com:CyberSquirrel-AI/aws_access_auditor.git
 
 # Navigate into the project directory
 cd aws-access-auditor
